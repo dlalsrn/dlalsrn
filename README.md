@@ -1,3 +1,1 @@
-안녕하세요 제 이름은 이민구입니다.
-소프트웨어학부 2학년입니다.
-잘 부탁드립니다.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qsccsq22)](https://solved.ac/qsccsq22/)
